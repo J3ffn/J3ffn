@@ -32,7 +32,7 @@
 <br />
 
 <!-- Sessão informativa -->
- # Sobre mim
+ # Sobre mim -
  
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" /><br/><br/>
@@ -48,7 +48,7 @@
 <br/>
 <br/>
 
-## Uso para codar
+# Uso para codar -
 <div align="center">
   
   <br/>
@@ -83,7 +83,7 @@
 
 <br/>
 
-## Top Open Source -
+# Top Open Source -
 <div align="center">
   
   [![Bikcraft](https://github-readme-stats.vercel.app/api/pin/?username=j3ffn&repo=bikcraft&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/J3ffn/bikcraft)
