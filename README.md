@@ -4,10 +4,8 @@
 </a>
 
 <!-- Intro  -->
-<h1 align="center">
-    Olá, eu sou o
-            <b><a target="_blank" href="https://www.linkedin.com/in/jefferson-izaquiel/">Jeff</a></b>
-    
+<h1 align="center"> &gt; Olá, eu sou o
+  <b><a target="_blank" href="https://www.linkedin.com/in/jefferson-izaquiel/">Jeff</a></b>
 </h1>
 
 <p align="center"> 
