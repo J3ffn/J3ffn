@@ -51,20 +51,33 @@
 ## Uso para codar
 <div align="center">
   
-  ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-  ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
-  ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-  ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![Strapi](https://img.shields.io/badge/strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white)
-  ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-  ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-  ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  <br/>
+  <code><a href="https://www.oracle.com/java/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></a></code>
+  <code><a href="https://spring.io/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"></a></code>
+  <code><a href="https://kafka.apache.org/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg"></a></code>
+  <br/>
+  <code><a href="https://www.php.net/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/php/php-icon.svg"></a></code>
+  <code><a href="https://symfony.com/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/symfony/symfony-icon.svg"></a></code>
+  <code><a href="https://twig.symfony.com/" target="_blank"><img height="45" src="https://svgur.com/i/1j0.svg"></a></code>
+  <br/>
+  <code><a href="https://www.javascript.com/" target="_blank"><img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a></code>
+  <code><a href="https://www.typescriptlang.org/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript"></a></code>
+  <code><a href="https://reactjs.org/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></a></code>
+  <code><a href="https://nextjs.org/" target="_blank"><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Cib-next-js_%28CoreUI_Icons_v1.0.0%29.svg/120px-Cib-next-js_%28CoreUI_Icons_v1.0.0%29.svg.png"></a></code>
+  <code><a href="https://www.w3schools.com/html/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></a></code>
+  <code><a href="https://www.w3schools.com/css/" target="_blank"><img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a></code>
+  <br/>
+  <code><a href="https://www.oracle.com/br/database/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg"></a></code>
+  <code><a href="https://www.postgresql.org/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"></a></code>
+  <code><a href="https://www.mysql.com/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"></a></code>
+  <code><a href="https://www.mongodb.com/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></a></code>
+  <code><a href="https://redis.io/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg"></a></code>
+  <br/>
+  <code><a href="https://dbeaver.io/" target="_blank"><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg"></a></code>
+  <code><a href="https://code.visualstudio.com/" target="_blank"><img height="45" src="https://upload.vectorlogo.zone/logos/visualstudio_code/images/a4381320-f83c-4a29-9db3-b241c1d096b1.svg"></a></code>
+  <code><a href="https://www.jetbrains.com/pt-br/idea/" target="_blank"><img height="45" src="https://upload.vectorlogo.zone/logos/jetbrains_idea/images/d4398a36-c378-4511-a508-106ded6cd69a.svg"></a></code>
+  <br/>
+  <code><a href="https://git-scm.com/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a></code>
 
 </div>
 
