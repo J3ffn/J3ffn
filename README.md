@@ -102,21 +102,26 @@
 
 <p align="center">
   <a href="https://github.com/j3ffn">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=j3ffn&theme=radical&border=7F3FBF&background=0D1117" alt="J3ffn GitHub streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/j3ffn">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=j3ffn&theme=radical" alt="J3ffn GitHub Contribution"/>
   </a>
 </p>
 
-<a>
-  <a href="https://github.com/J3ffn"><img alt="J3ffn Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=J3ffn&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/J3ffn"><img alt="J3ffn Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=J3ffn&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+<div align="center"> 
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/j3ffn/j3ffn/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/j3ffn/j3ffn/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
   <br/>
-</a>
+  <br/>
+</div>
 
+<div align="center"> 
+  <a href="https://github.com/J3ffn"><img alt="J3ffn Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=J3ffn&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="48.5%"/></a>
+  <a href="https://github.com/J3ffn"><img alt="J3ffn Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=J3ffn&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="34.5%"/></a>
+  <br/>
+</div>
 
+<!--
 ![Al J3ffn Graph](https://github-readme-activity-graph.vercel.app/graph?username=J3ffn&custom_title=Al%20J3ffn%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+-->
