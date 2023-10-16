@@ -5,9 +5,9 @@
 
 <!-- Intro  -->
 <h1 align="center">
-    <samp>&gt; Olá, eu sou o
+    Olá, eu sou o
             <b><a target="_blank" href="https://www.linkedin.com/in/jefferson-izaquiel/">Jeff</a></b>
-    </samp>
+    
 </h1>
 
 <p align="center"> 
