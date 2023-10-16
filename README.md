@@ -4,12 +4,11 @@
 </a>
 
 <!-- Intro  -->
-<h3 align="center">
+<h1 align="center">
     <samp>&gt; Olá, eu sou o
             <b><a target="_blank" href="https://www.linkedin.com/in/jefferson-izaquiel/">Jeff</a></b>
     </samp>
-</h3>
-
+</h1>
 
 <p align="center"> 
   <samp>
