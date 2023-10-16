@@ -40,7 +40,7 @@
   - 🧞 Sou um entusiasta de tecnologia desde a infância.
   - 🔭 Atualmente estou trabalhando como Backend, na Brasil TecPar.
   - 👯 Pretendo colaborar com projetos Fullstack Web e UI/UX.
-  - 💡 Contribuir para projetos de código aberto sempre foi um objetivo para mim.
+  - 💡 Contribuir para projetos de código aberto sempre foi um objetivo.
 
 </p>
 
