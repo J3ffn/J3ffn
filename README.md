@@ -13,7 +13,7 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
+    <a href="https://www.google.com/search?q=j3ffn">「 Google Me 」</a>
     <br>
     「 Sou um desenvolvedor de aplicativos web full stack da <b>Paraíba</b> 」
     <br>
@@ -23,27 +23,24 @@
 
 <p align="center">
  <a href="https://www.linkedin.com/in/jefferson-izaquiel/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="j3ffn"/>
  </a>
  <a href="https://www.instagram.com/jeffnn_/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="j3ffn" />
  </a> 
- <a href="https://facebook.com/alsiam.world" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
-  </a> 
 </p>
 <br />
 
-<!-- About Section -->
+<!-- Sessão informativa -->
  # Sobre mim
  
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+ <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" /><br/><br/>
   
- ✌️ &emsp; Aproveite para fazer programação e compartilhar conhecimento <br/><br/>
- ❤️ &emsp; Adoro escrever código e aprender novos recursos<br/><br/>
- 📧 &emsp; Entre em contato comigo a qualquer momento: jefferson.mangueira12@gmail.com<br/><br/>
- 💬 &emsp; Pergunte-me sobre qualquer coisa [here](https://github.com/alsiam/alsiam/issues)
+  - 🧞 Sou um entusiasta de tecnologia desde a infância.
+  - 🔭 Atualmente estou trabalhando como Backend, na Brasil TecPar.
+  - 👯 Pretendo colaborar com projetos Fullstack Web e UI/UX.
+  - 💡 Contribuir para projetos de código aberto sempre foi um objetivo para mim.
 
 </p>
 
@@ -51,7 +48,7 @@
 <br/>
 <br/>
 
-## Use To Code
+## Uso para codar
 <div align="center">
   
   ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
@@ -91,19 +88,19 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/alsiam">
+  <a href="https://github.com/j3ffn">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=j3ffn&theme=radical&border=7F3FBF&background=0D1117" alt="J3ffn GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/alsiam">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=j3ffn&theme=radical" alt="Al J3ffn GitHub Contribution"/>
+  <a href="https://github.com/j3ffn">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=j3ffn&theme=radical" alt="J3ffn GitHub Contribution"/>
   </a>
 </p>
 
-<a> 
-    <a href="https://github.com/alsiam"><img alt="J3ffn Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=J3ffn&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+<a>
+  <a href="https://github.com/J3ffn"><img alt="J3ffn Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=J3ffn&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/J3ffn"><img alt="J3ffn Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=J3ffn&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
