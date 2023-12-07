@@ -35,8 +35,7 @@
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" /><br/><br/>
   
   - 🧞 Sou um entusiasta de tecnologia desde a infância.
-  - 🔭 Atualmente estou trabalhando como Backend, na Brasil TecPar.
-  - 👯 Pretendo colaborar com projetos Fullstack Web e UI/UX.
+  - 🔭 Atualmente estou trabalhando como Backend, na DBC Company.
   - 💡 Contribuir para projetos de código aberto sempre foi um objetivo.
 
 </p>
