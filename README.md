@@ -51,14 +51,9 @@
   <code><a href="https://spring.io/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"></a></code>
   <code><a href="https://kafka.apache.org/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg"></a></code>
   <br/>
-  <code><a href="https://www.php.net/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/php/php-icon.svg"></a></code>
-  <code><a href="https://symfony.com/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/symfony/symfony-icon.svg"></a></code>
-  <code><a href="https://twig.symfony.com/" target="_blank"><img height="45" src="https://svgur.com/i/1j0.svg"></a></code>
-  <br/>
   <code><a href="https://www.javascript.com/" target="_blank"><img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a></code>
   <code><a href="https://www.typescriptlang.org/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript"></a></code>
   <code><a href="https://reactjs.org/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></a></code>
-  <code><a href="https://nextjs.org/" target="_blank"><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Cib-next-js_%28CoreUI_Icons_v1.0.0%29.svg/120px-Cib-next-js_%28CoreUI_Icons_v1.0.0%29.svg.png"></a></code>
   <code><a href="https://www.w3schools.com/html/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></a></code>
   <code><a href="https://www.w3schools.com/css/" target="_blank"><img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a></code>
   <br/>
