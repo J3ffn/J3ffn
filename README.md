@@ -4,46 +4,18 @@
 </a>
 
 <!-- Intro  -->
-<h1 align="center"> &gt; Olá, eu sou o
+<h1 align="center"> &gt; Opa, aqui é o
   <b><a target="_blank" href="https://www.linkedin.com/in/jefferson-izaquiel/">Jeff</a></b>
 </h1>
-
-<p align="center"> 
-  <samp>
-    <a href="https://www.google.com/search?q=j3ffn">「 Google Me 」</a>
-    <br>
-    「 Sou um desenvolvedor de aplicativos web full stack da <b>Paraíba</b> 」
-    <br>
-    <br>
-  </samp>
-</p>
 
 <p align="center">
  <a href="https://www.linkedin.com/in/jefferson-izaquiel/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="j3ffn"/>
  </a>
- <a href="https://www.instagram.com/jeffnn_/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="j3ffn" />
- </a> 
 </p>
 <br />
 
-<!-- Sessão informativa -->
- # Sobre mim -
- 
-<p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" /><br/><br/>
-  
-  - 🧞 Entusiasta de tecnologia desde a infância.
-  - 🔭 Trabalhando como Backend, na DBC Company.
-
-</p>
-
-<br/>
-<br/>
-<br/>
-
-# Uso para codar -
+# Já tô craque -
 <div align="center">
   
   <br/>
@@ -73,15 +45,16 @@
 
 <br/>
 
-# Top Open Source -
+# Projetos principais -
 <div align="center">
   
-  [![Bikcraft PHP](https://github-readme-stats.vercel.app/api/pin/?username=j3ffn&repo=bikcraft-php&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/J3ffn/bikcraft-PHP)
+  [![REBULIÇO-ui](https://github-readme-stats.vercel.app/api/pin/?username=j3ffn&repo=rebolico-ui&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/J3ffn/rebolico-ui)
+  [![REBULIÇO-service](https://github-readme-stats.vercel.app/api/pin/?username=j3ffn&repo=rebolico-service&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/J3ffn/rebolico-service)
   [![Bikcraft](https://github-readme-stats.vercel.app/api/pin/?username=j3ffn&repo=bikcraft&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/J3ffn/bikcraft)
   [![Animais Fantasticos](https://github-readme-stats.vercel.app/api/pin/?username=j3ffn&repo=animais-fantasticos&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/J3ffn/Animais-Fantasticos)
   
   <p>
-    <a href="https://github.com/J3ffn?tab=repositories" target="_blank"><img alt="Todos os repositórios" title="Todos os repositórios" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+    <a href="https://github.com/J3ffn?tab=repositories" target="_blank"><img alt="Todos os repositórios" title="Todos os repositórios" src="https://img.shields.io/badge/-Veja%20mais%20projetos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
   </p>
   
   <br/>
@@ -89,11 +62,6 @@
   <br/>
 </div>
 
-<p align="center">
-  <a href="https://github.com/j3ffn">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=j3ffn&theme=radical" alt="J3ffn GitHub Contribution"/>
-  </a>
-</p>
 
 <div align="center"> 
   <picture>
@@ -103,11 +71,7 @@
   </picture>
   <br/>
   <br/>
-</div>
-
-<div align="center"> 
-  <a href="https://github.com/J3ffn"><img alt="J3ffn Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=J3ffn&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="48.5%"/></a>
-  <a href="https://github.com/J3ffn"><img alt="J3ffn Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=J3ffn&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="34.5%"/></a>
+      <a href="https://github.com/J3ffn"><img alt="J3ffn Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=J3ffn&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="34.5%"/></a>
   <br/>
 </div>
 
