@@ -49,7 +49,7 @@
 <div align="center">
   
   [![REBULIÇO-ui](https://github-readme-stats.vercel.app/api/pin/?username=j3ffn&repo=rebulico-ui&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/J3ffn/rebulico-ui)
-  [![REBULIÇO-service](https://github-readme-stats.vercel.app/api/pin/?username=j3ffn&repo=rebolico-service&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/J3ffn/rebolico-service)
+  [![REBULIÇO-service](https://github-readme-stats.vercel.app/api/pin/?username=j3ffn&repo=rebolico-service&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/J3ffn/rebulico-service-nodejs)
   [![Bikcraft](https://github-readme-stats.vercel.app/api/pin/?username=j3ffn&repo=bikcraft&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/J3ffn/bikcraft)
   [![Animais Fantasticos](https://github-readme-stats.vercel.app/api/pin/?username=j3ffn&repo=animais-fantasticos&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/J3ffn/Animais-Fantasticos)
   
