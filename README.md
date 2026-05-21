@@ -5,7 +5,7 @@
 
   <p align="center">
     <strong>Desenvolvedor Full Stack</strong><br />
-    Especialista em arquitetura de microsserviços, otimização de performance e Design Systems.
+    Experiência em arquitetura de microsserviços, otimização de performance e Design Systems.
   </p>
 
   <p align="center">
